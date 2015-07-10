@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bubble_me">#0084ff</color>
+    <color name="bubble_you">#f1f0f0</color>
+    <color name="name">#777777</color>
+
+    <color name="btn_send_normal">#02c754</color>
+    <color name="btn_send_pressed">#006633</color>
+    <color name="btn_default_shadow">#99000000</color>
+
+</resources>

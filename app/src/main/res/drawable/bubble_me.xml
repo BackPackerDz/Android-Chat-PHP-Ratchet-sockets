@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!-- Couleur de l'arrière plan -->
+    <solid android:color="@color/bubble_me" >
+    </solid>
+
+    <corners android:radius="5dp" >
+    </corners>
+
+</shape>
